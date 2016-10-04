@@ -6,4 +6,4 @@ bin/
 # Eclipse
 .settings
 .classpath
-
+!*.bak
