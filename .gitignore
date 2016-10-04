@@ -1,0 +1,9 @@
+# Output
+outfx/
+out/
+bin/
+
+# Eclipse
+.settings
+.classpath
+
